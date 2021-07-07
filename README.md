@@ -39,6 +39,7 @@
       - Reading a lot of horror stories
       - Roaming Around
   
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 <div align="center">
   
@@ -48,7 +49,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Connect with me:
 
@@ -57,6 +58,8 @@
 
 <br />
 
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 ### Languages and Tools:
 
 [<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][js]
@@ -70,6 +73,8 @@
 <br />
 
 
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 <details>
   <summary>:zap: GitHub Stats</summary>
 
