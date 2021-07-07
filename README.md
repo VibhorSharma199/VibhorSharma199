@@ -11,6 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love To Chat On Discord
 <div align="center">
+  
 ### Spotify Playing 🎧
 
 
