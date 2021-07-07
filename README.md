@@ -3,12 +3,12 @@
   
   
 ## I'm a Student Coder Developer !!
-
+</div>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love To Chat On Discord
-
+<div align="center">
 ### Spotify Playing 🎧
 
 
@@ -44,7 +44,7 @@
 
 </details>
 
-
+</div>
 
 [discord]: https://discordapp.com/users/736917095211728951
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
