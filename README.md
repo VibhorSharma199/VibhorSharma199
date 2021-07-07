@@ -76,7 +76,7 @@
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  :zap: GitHub Stats
 
   <img align="center" alt="VibhorSharma GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VibhorSharma&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true" />
 
