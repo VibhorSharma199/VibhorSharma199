@@ -9,7 +9,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestacker.vercel.app/api/spotify-playing" alt="codestacker Spotify Playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
 
 
 
