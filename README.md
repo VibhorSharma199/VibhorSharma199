@@ -1,9 +1,9 @@
 ### Hi There Guyz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I AM VibhorSharma!
 <div align="center">
   
-  
+</div>  
 ## I'm a Student Coder Developer !!
-</div>
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
