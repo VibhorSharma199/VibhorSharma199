@@ -10,7 +10,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love To Chat On Discord
-<div align="center">
+
+<br />
   
   
   
@@ -36,6 +37,8 @@
     - Reading a lot of horror stories
     - Roaming Around
   
+  
+<div align="center">
   
 ### Spotify Playing 🎧
 
