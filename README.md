@@ -16,26 +16,26 @@
   
   
   - ⚡ **About me:** 
-  - Name:Vibhor Sharma
-  - Online name: Vibhor Sharma
-  - Age: 15 (30/04/2006)
-  - Location: India  🇮🇳 
-  - Occupation: Student
-  - Favourites:
-    - Colour: Red,Black
-    - Games: Minecraft Valorant 
-  - Languages(Spoken): English, Hindi, Punjabi
-  - Languages(Written): English, Hindi, punjabi
-  - Languages(Programming):
+    - Name:Vibhor Sharma
+    - Online name: Vibhor Sharma
+    - Age: 15 (30/04/2006)
+    - Location: India  🇮🇳 
+    - Occupation: Student
+    - Favourites:
+      - Colour: Red,Black
+      - Games: Minecraft Valorant 
+    - Languages(Spoken): English, Hindi, Punjabi
+    - Languages(Written): English, Hindi, punjabi
+    - Languages(Programming):
      - Learning: HTML, CSS, Javascript, python
      - Known: Python JavaScript
-  - Songs: Classical, Bollywood, Romantic, Pops, Punjabi etc.
-  - Hobbies:
-    - Coding
-    - Minecraft
-    - Valorant
-    - Reading a lot of horror stories
-    - Roaming Around
+    - Songs: Classical, Bollywood, Romantic, Pops, Punjabi etc.
+    - Hobbies:
+      - Coding
+      - Minecraft
+      - Valorant
+      - Reading a lot of horror stories
+      - Roaming Around
   
   
 <div align="center">
