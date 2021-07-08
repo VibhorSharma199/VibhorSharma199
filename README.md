@@ -59,7 +59,7 @@
 ### Spotify Playing 🎧
 
 
-[<img src="https://https://novatorem-vibhorsharma199.vercel.app/api/spotify" alt=SharmaVibhor Spotify playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
+[<img src="https://spotify-playing-ten.vercel.app/" alt=SharmaVibhor Spotify playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
