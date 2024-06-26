@@ -8,11 +8,7 @@
 
 </br>
 
-<div align="center">
 
-<img align="middle" src="https://discord.c99.nl/widget/theme-2/736917095211728951.png">
-
-</div> 
   
 <br>
 
