@@ -1,102 +1,87 @@
 <div align="center">
   
-### Hi There Guyz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I AM VibhorSharma!
+### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vibhor Sharma
 
-  
+**BTech CSE Student | AI/ML Enthusiast | Backend Developer**
+
 </div> 
 
-
-</br>
-
-
-  
 <br>
 
-------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-## I'm a Student Coder Developer !!
+## About Me 🚀
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love To Chat On Discord
+- 🎓 2nd Year CSE Student at GL Bajaj College
+- 🤖 Specializing in Artificial Intelligence & Machine Learning
+- 💻 Backend Web Development Expert
+- 🌱 Currently deepening my knowledge in cloud technologies and distributed systems
+- 👯 Looking to collaborate on innovative AI projects and open-source initiatives
+- 🎯 2024 Goals: Master advanced ML algorithms and contribute to impactful projects
+- ⚡ Fun fact: I can debug code while playing Valorant!
 
-<br />
-  
- 
-  -------------------------------------------------------------------------------------------------------------------------------------------
-  
-  - ⚡ **About me:** 
-    - Name:Vibhor Sharma
-    - Online name: Vibhor Sharma
-    - Age: 15 (30/04/2006)
-    - Location: India  🇮🇳 
-    - Occupation: Student
-    - Favourites:
-      - Colour: Red,Black
-      - Games: Minecraft Valorant 
-    - Languages(Spoken): English, Hindi, Punjabi
-    - Languages(Written): English, Hindi, punjabi
-    - Languages(Programming):
-     - Learning: HTML, CSS, Javascript, python
-     - Known: Python JavaScript
-    - Songs: Classical, Bollywood, Romantic, Pops, Punjabi etc.
-    - Hobbies:
-      - Coding
-      - Minecraft
-      - Valorant
-      - Reading a lot of horror stories
-      - Roaming Around
-  
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+<br>
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:**
+- Python (Expert)
+- JavaScript/Node.js (Expert)
+- Java (Intermediate)
+- C++ (Intermediate)
+
+**Backend Technologies:**
+- Node.js, Express.js
+- Django, Flask
+- RESTful APIs, GraphQL
+- Database Management (SQL & NoSQL)
+
+**AI/ML Stack:**
+- TensorFlow, PyTorch
+- Scikit-learn, Pandas, NumPy
+- Data Visualization & Analysis
+- Model Deployment
+
+**Tools & Platforms:**
+- Git & GitHub
+- Docker, Kubernetes
+- AWS, Google Cloud Platform
+- VS Code, Jupyter Notebooks
+
+<br>
+
+---
+
 <div align="center">
 
+### 🎧 Now Playing on Spotify
 
-### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vibhor's Spotify Playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="vibhor Spotify Playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📫 Connect With Me
 
-### Connect with me:
-
-[<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="center" alt="SharmaVibhor Discord" width="22px" src="https://img.icons8.com/dusk/50/000000/discord-logo.png" />][discord]
-
-<br />
-
-_____________________________________________________________________________________________________________________________________________________________
-  
-  
-### Languages and Tools:
-
-[<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][js]
-[<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
-[<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][Py]
-
-
-
+[<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="center" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Discord" width="22px" src="https://img.icons8.com/dusk/50/000000/discord-logo.png" />][discord]
 
 <br />
-<br />
 
+---
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+## 📈 GitHub Stats
 
-   <summary>:zap: GitHub Stats</summary>
+<img align="center" alt="VibhorSharma GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&show_icons=true&hide_border=true&theme=radical" />
 
-  <img align="center" alt="VibhorSharma GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true" />
+<br>
 
-  <summary>:zap: Top Languages</summary>
-      <img align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true" />
-                                                             
+<img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&layout=compact&hide_border=true&theme=radical" />
 
 </div>
 
+[github]: https://github.com/VibhorSharma199
+[linkedin]: [https://www.linkedin.com/in/vibhor-sharma-/](https://www.linkedin.com/in/vibhor-sharma-639174259/)
 [discord]: https://discordapp.com/users/736917095211728951
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Github]: https://github.com/VibhorSharma199/VibhorSharma199
-[VSC]: http://vsCodeHero.com
-[Py]: https://python.org
