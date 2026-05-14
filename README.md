@@ -83,18 +83,11 @@ Sleep Schedule: Undefined
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-
-<br><br>
-
-<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=VibhorSharma199&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VibhorSharma199&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
