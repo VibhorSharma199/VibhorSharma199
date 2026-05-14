@@ -1,87 +1,175 @@
 <div align="center">
-  
-### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vibhor Sharma
 
-**BTech CSE Student | AI/ML Enthusiast | Backend Developer**
+# ⚡ VIBHOR SHARMA
 
-</div> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=BTech+CSE+Student;AI%2FML+Engineer+in+Progress;Backend+Developer;Open+Source+Contributor;Future+Software+Engineer+@+Google" />
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=VibhorSharma199&label=Profile+Views&color=00ffff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/VibhorSharma199?style=for-the-badge&color=00ffff&labelColor=000000" />
+
+</div>
 
 ---
 
-## About Me 🚀
+## 🧠 SYSTEM STATUS
 
-- 🎓 2nd Year CSE Student at GL Bajaj College
-- 🤖 Specializing in Artificial Intelligence & Machine Learning
-- 💻 Backend Web Development Expert
-- 🌱 Currently deepening my knowledge in cloud technologies and distributed systems
-- 👯 Looking to collaborate on innovative AI projects and open-source initiatives
-- 🎯 2024 Goals: Master advanced ML algorithms and contribute to impactful projects
-- ⚡ Fun fact: I can debug code while playing Valorant!
-
-<br>
+```yaml
+Status: Online 🟢
+Location: GL Bajaj Institute of Technology and Management
+Role: BTech CSE Student
+Specialization: Artificial Intelligence & Machine Learning
+Current Mission: Building Vibeesta
+Primary Language: Python
+Secondary Language: JavaScript/TypeScript
+Coffee Level: ██████████ 100%
+Bugs Found: Too Many
+Sleep Schedule: Undefined
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🛰️ OPERATOR PROFILE
 
-**Programming Languages:**
-- Python (Expert)
-- JavaScript/Node.js (Expert)
-- Java (Intermediate)
-- C++ (Intermediate)
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Backend Technologies:**
-- Node.js, Express.js
-- Django, Flask
-- RESTful APIs, GraphQL
-- Database Management (SQL & NoSQL)
+- 🎓 2nd Year B.Tech CSE Student at **GL Bajaj**
+- 🤖 AI/ML Enthusiast
+- ⚙️ Backend Developer
+- 🌐 Open Source Contributor
+- 🏆 Competitive Programmer
+- 🚀 Targeting **Google Summer of Code 2026**
+- 📚 Learning Distributed Systems, Cloud, and MLOps
+- 💡 Building impactful real-world projects
+- 🎯 Goal: Software Engineering Internship at Google
+- ⚡ Fun Fact: I debug faster after midnight
 
-**AI/ML Stack:**
-- TensorFlow, PyTorch
-- Scikit-learn, Pandas, NumPy
-- Data Visualization & Analysis
-- Model Deployment
+---
 
-**Tools & Platforms:**
-- Git & GitHub
-- Docker, Kubernetes
-- AWS, Google Cloud Platform
-- VS Code, Jupyter Notebooks
+## ⚔️ TECH WEAPONRY
 
-<br>
+### 🧩 Languages
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+
+### 🌐 Backend
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
+![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql)
+
+### 🧠 AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+
+---
+
+## 📊 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=VibhorSharma199&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 🔥 CONTRIBUTION HEATMAP
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VibhorSharma199&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VibhorSharma199/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VibhorSharma199&theme=algolia&no-frame=true&margin-w=10&margin-h=10)
+
+</div>
+
+---
+
+## 🎯 CURRENT MISSIONS
+
+- 🚀 Building and scaling **[Vibeesta](https://vibeesta.com)**
+- 🌐 Contributing to Open Source
+- 🤖 Building AI/ML Projects
+- 🏆 Solving DSA and Competitive Programming Problems
+- ☁️ Learning Cloud Architecture and Distributed Systems
+- 🛡️ Developing an AI-powered Phishing Detection System
+
+---
+
+## 📡 CONNECT WITH THE OPERATOR
+
+<div align="center">
+
+<a href="https://github.com/VibhorSharma199">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/vibhorsharma01/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:vibhorsharma961@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://discordapp.com/users/736917095211728951">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎧 Now Playing on Spotify
+```text
+while(alive) {
+    eat();
+    code();
+    debug();
+    sleep();
+    repeat();
+}
+```
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vibhor's Spotify Playing" width="350" />](https://open.spotify.com/user/r6i91ofx3w6x6yyxjwxy1hk1x)
-
----
-
-### 📫 Connect With Me
-
-[<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="center" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Discord" width="22px" src="https://img.icons8.com/dusk/50/000000/discord-logo.png" />][discord]
-
-<br />
-
----
-
-## 📈 GitHub Stats
-
-<img align="center" alt="VibhorSharma GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&show_icons=true&hide_border=true&theme=radical" />
-
-<br>
-
-<img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&layout=compact&hide_border=true&theme=radical" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+🚀" />
 
 </div>
-
-[github]: https://github.com/VibhorSharma199
-[linkedin]: [https://www.linkedin.com/in/vibhor-sharma-/](https://www.linkedin.com/in/vibhor-sharma-639174259/)
-[discord]: https://discordapp.com/users/736917095211728951
