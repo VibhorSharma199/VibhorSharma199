@@ -107,7 +107,7 @@ Sleep Schedule: Undefined
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VibhorSharma199/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/VibhorSharma199/VibhorSharma199/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 
 </div>
 
