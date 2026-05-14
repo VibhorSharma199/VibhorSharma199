@@ -81,13 +81,18 @@ Sleep Schedule: Undefined
 
 ## 📊 CONTRIBUTION MATRIX
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=VibhorSharma199&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=VibhorSharma199&theme=tokyonight&hide_border=true&background=0D1117" />
+<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://streak-stats.demolab.com?user=VibhorSharma199&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorSharma199&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
