@@ -2,7 +2,7 @@
 
 # ⚡ VIBHOR SHARMA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=BTech+CSE+Student;AI%2FML+Engineer+in+Progress;Backend+Developer;Open+Source+Contributor;Future+Software+Engineer+@+Google" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=BTech+CSE+Student;AI%2FML+Engineer+in+Progress;Backend+Developer;Open+Source+Contributor" />
 
 <br>
 
@@ -39,7 +39,7 @@ Sleep Schedule: Undefined
 - ⚙️ Backend Developer
 - 🌐 Open Source Contributor
 - 🏆 Competitive Programmer
-- 🚀 Targeting **Google Summer of Code 2026**
+- 🚀 Targeting **Google Summer of Code 2027**
 - 📚 Learning Distributed Systems, Cloud, and MLOps
 - 💡 Building impactful real-world projects
 - 🎯 Goal: Software Engineering Internship at Google
